@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/43e31807-abce-4161-9ac3-ebe105051e23.svg)](https://wakatime.com/@43e31807-abce-4161-9ac3-ebe105051e23)
 <!--
 **walter-0/walter-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
